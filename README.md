@@ -6,4 +6,4 @@ Uses a stack to track opening brackets.
 
 For every closing bracket, it checks if it matches the top of the stack.
 
-If everything matches and the stack is empty at the end, it is balanced.
+If everything matches and the stack is empty at the end, it is balanced......
